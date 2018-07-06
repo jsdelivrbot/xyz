@@ -1,0 +1,8 @@
+{
+  "name": "xyz",
+  "description": "Personal web site",
+  "repository": "https://github.com/victortomilin/xyz",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["victortomilin", "personal", "site", "nodejs"],
+  "image": "heroku/nodejs"
+}
